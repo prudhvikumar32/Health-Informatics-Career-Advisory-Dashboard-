@@ -129,7 +129,7 @@ health-informatics-dashboard/
 ### 🔹 Role Analytics (Draft)
 ![image](https://github.com/user-attachments/assets/cde22a8a-48a9-47a0-9d77-756d3f61a9e2)
 
-![image](https://github.com/user-attachments/assets/2ed3098a-b45d-4f09-a599-d3c9f7e276a8)
+![image](https://github.com/user-attachments/assets/c9f5e7c1-5694-4a80-a3ca-2111ef0dca3a)
 
 ### 🔹 Skill Gap Visuals (Draft)
 ![image](https://github.com/user-attachments/assets/8e1b4d2a-20fe-4b59-87d9-cfa843ec2f92)

@@ -127,13 +127,17 @@ health-informatics-dashboard/
 ## 🖼 Screenshots
 
 ### 🔹 Role Analytics (Draft)
-![Role Analytics Screenshot](assets/role-analytics.png)
+![image](https://github.com/user-attachments/assets/cde22a8a-48a9-47a0-9d77-756d3f61a9e2)
+
+![image](https://github.com/user-attachments/assets/2ed3098a-b45d-4f09-a599-d3c9f7e276a8)
 
 ### 🔹 Skill Gap Visuals (Draft)
-![Skill Gap Draft](assets/skill-gap-draft.png)
+![image](https://github.com/user-attachments/assets/8e1b4d2a-20fe-4b59-87d9-cfa843ec2f92)
+
+![image](https://github.com/user-attachments/assets/7cf24c60-7fe5-4290-9006-5c3217f82fe3)
 
 ### 🔹 Dashboard Preview (Power BI Draft)
-![Power BI Dashboard](assets/powerbi-preview.png)
+![image](https://github.com/user-attachments/assets/e87ed97f-5be0-4bff-a460-b406185c0797)
 
 > These screenshots are based on design drafts presented during Week 8.
 

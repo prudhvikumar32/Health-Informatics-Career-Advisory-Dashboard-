@@ -173,7 +173,6 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## 🙏 Acknowledgements
 
 - **Professor Maria Weber** – Project Supervisor
-- **Synthea** – For simulated patient data
 - **Team 14 Members**:
   - Jalandhar Bollam
   - Prudhvi Kumar Borigam
